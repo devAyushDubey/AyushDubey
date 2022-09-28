@@ -10,13 +10,13 @@
 
 ## Connect with me 🤝
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-dubey-/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/JHGcJzk"></a>
+  <a href="https://www.linkedin.com/in/ayush-dubey-/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/33064931/192891277-e2528754-fdca-473a-be7a-25149ae295c8.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_iam.ayush_/"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/undefined"/></a>
+  <a href="https://www.instagram.com/_iam.ayush_/"><img width="32px" alt="Instagram" title="Instagram" src="https://user-images.githubusercontent.com/33064931/192891342-3c88a026-50f3-430d-b582-96a57b019e32.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/c/ADIDAT"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/EdipVFI"/></a>
+  <a href="https://www.youtube.com/c/ADIDAT"><img width="32px" alt="Youtube" title="Youtube" src="https://user-images.githubusercontent.com/33064931/192891435-24b5573e-5715-484a-b398-1db38348d9ea.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/thatshityguy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/thatshityguy"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
