@@ -1,4 +1,4 @@
-![AyushDubeyBanner](https://github.com/devAyushDubey/AyushDubey/blob/main/Ayush%20DUbey.png)
+![AyushDubeyBanner](https://github.com/devAyushDubey/AyushDubey/blob/main/Ayush%20DUbey%(1).png)
 # Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/devAyushDubey/count.svg)th visitor 🤗
 <h2 align="center"> I am Ayush Dubey🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
