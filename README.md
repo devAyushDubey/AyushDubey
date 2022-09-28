@@ -9,4 +9,14 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=devAyushDubey&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devAyushDubey&layout=compact)
 
 ## Connect with me 🤝
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <p align="center">
+  <a href="https://www.linkedin.com/in/ayush-dubey-/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/JHGcJzk"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/_iam.ayush_/"><img width="32px" alt="Instagram" title="Instagram" src="https://imgur.com/undefined"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/c/ADIDAT"><img width="32px" alt="Youtube" title="Youtube" src="https://imgur.com/EdipVFI"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/thatshityguy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
