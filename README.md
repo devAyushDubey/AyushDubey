@@ -18,15 +18,17 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/thatshityguy"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/33064931/192891530-8660cc3a-3721-4609-a99d-010d7dd5d6d7.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+</p> &nbsp;
 
+<br> &nbsp;
+
+&nbsp;
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/devAyushDubey/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=devAyushDubey&theme=gradient&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="devAyushDubey's streak" src="https://streak-stats.demolab.com/?user=devAyushDubey&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
