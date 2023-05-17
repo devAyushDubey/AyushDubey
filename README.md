@@ -1,5 +1,4 @@
-![AyushDubeyBanner](https://user-images.githubusercontent.com/33064931/208235466-7425e9ad-aecf-4171-a011-9cb31c9e3f2e.png)
-# Welcome 👋, you are special&nbsp;![ProfileCounter](https://profile-counter.glitch.me/devAyushDubey/count.svg)th visitor 🤗
+# Welcome 👋,
 <h2 align="center"> I am Ayush Dubey🤓, a passionate and creative developer from India.👩🏾‍💻 </h2> &nbsp;
 
 > **I am a B.Tech undergrad in Computer Science with a passion for developing softwares, a craving learner and innovator with good logical problem solving skills. I try casting creative and innnovative solutions to real world problems. Enjoy working in Open Source, with Communities and Technical Societies. Deeply value project based learning experiences and working in a team. Strong hold on Data Structures and Algorithms. Creating value and impact in bringing about a change.**
